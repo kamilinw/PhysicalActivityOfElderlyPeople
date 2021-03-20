@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="activities">
+        <item>Chodzenie</item>
+        <item>Bieganie</item>
+        <item>Jazda na rowerze</item>
+    </string-array>
+
+</resources>

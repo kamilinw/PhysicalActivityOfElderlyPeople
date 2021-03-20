@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu">
+        <item>@string/editProfile</item>
+        <item>@string/stats</item>
+        <item>@string/appInfo</item>
+        <item>@string/logOut</item>
+        <item>@string/deleteProfile</item>
+    </string-array>
+
+</resources>

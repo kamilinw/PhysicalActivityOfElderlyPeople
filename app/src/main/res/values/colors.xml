@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary1">#64B5F6</color>
+    <color name="colorPrimary">#41B5EB</color>
+    <color name="colorPrimaryDark">#0E64AA</color>
+    <color name="colorAccent">#0E64A9</color>
+    <color name="errorInput">#FF0000</color>
+    <color name="signUpBackground">#64B5F6</color>
+    <color name="dailySteps">#77CC88</color>
+    <color name="stepsTarget">#FF6622</color>
+</resources>

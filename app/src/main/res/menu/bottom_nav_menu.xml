@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_exercises"
+        android:icon="@drawable/ic_joint_activity"
+        android:title="@string/titleJointActivity" />
+
+    <item
+        android:id="@+id/navigation_pedometer"
+        android:icon="@drawable/steps"
+        android:title="@string/title_pedometer" />
+
+    <item
+        android:id="@+id/navigation_activity"
+        android:icon="@drawable/ic_activity"
+        android:title="@string/title_activity" />
+
+    <item
+        android:id="@+id/navigation_progress"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="@string/title_progress" />
+
+</menu>
